@@ -1,0 +1,27 @@
+{
+  "analysis_time": "2025-08-15T21:40:39.093522",
+  "result_directory": "/root/autodl-tmp/unimatch_workspace/exp/pascal/unimatch/r101/732",
+  "files_found": [
+    {
+      "name": "events.out.tfevents.1755169694.autodl-container-cd9b4da3a8-7649fc15.11031.0",
+      "size_mb": 50.53775215148926,
+      "modified": "2025-08-15T20:09:21.366595"
+    },
+    {
+      "name": "latest.pth",
+      "size_mb": 454.5399341583252,
+      "modified": "2025-08-15T20:09:21.986592"
+    },
+    {
+      "name": "best.pth",
+      "size_mb": 454.48598289489746,
+      "modified": "2025-08-15T15:43:40.859055"
+    }
+  ],
+  "model_info": {
+    "epoch": 65,
+    "best_miou": "unknown",
+    "has_fractional_fusion": true
+  },
+  "training_summary": {}
+}
